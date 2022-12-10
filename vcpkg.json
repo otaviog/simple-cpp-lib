@@ -1,0 +1,6 @@
+{
+	"name": "simple-cpp-lib",
+	"version": "1.0.0",
+	"description": "A library to test vcpkg and ADO",
+	"homepage": "https://github.com/otaviog/simple-cpp-lib"
+}
